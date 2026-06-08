@@ -133,6 +133,3 @@ Open `notebook.ipynb` and run all cells to:
 * Evaluate model performance
 * Generate classification reports and confusion matrices
 * Export the trained model to TensorFlow Lite (TFLite) format
-
-```
-```
