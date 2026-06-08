@@ -217,8 +217,4 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-genres_original
-test_samples
 yamnet_saved_model
-genre_classification_model.tflite
-yamnet_model.tflite
