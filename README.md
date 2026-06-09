@@ -80,7 +80,7 @@ rock          43          7       53      5      13    25     18   37      20
 
 ### Prerequisites
 
-* Python 3.11 or earlier (Python 3.12+ is not recommended due to compatibility issues with TensorFlow Hub)
+* Python 3.11+ or 3.13 to earlier(I met an issue in Python 3.12+ which whenever I install TensorFlow Hub, setuptools is always missing and when even I separately install it, it still don't work)
 * Git
 
 ### Clone the Repository
