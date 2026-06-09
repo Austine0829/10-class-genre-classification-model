@@ -7,7 +7,7 @@ The Model is a 10-class music genre classifier using a Neural Network that predi
 Python, TensorFlow Keras, YAMNet, NumPy, Pandas, Scikit-Learn, Librosa, and TFLite.
 
 ### Techniques Used:
-Supervised Learning, Audio Segmentation, Transfer Learning.
+Supervised Learning, Audio Segmentation, Transfer Learning, Dropout Regularization, and Batch Normalization.
 
 ### Activation Function:
 ReLU, Softmax.
